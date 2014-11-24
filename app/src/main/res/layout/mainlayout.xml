@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="26.0sp" android:textColor="#ff993311" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" welcome to towelroot v1 " />
+    <TextView android:textSize="18.0sp" android:textColor="#ff666666" android:id="@id/text" android:paddingBottom="20.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="by geohot" />
+    <Button android:id="@id/button" android:paddingLeft="60.0dip" android:paddingTop="10.0dip" android:paddingRight="60.0dip" android:paddingBottom="15.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="make it ra1n" android:onClick="buttonClicked" />
+    <TextView android:gravity="center_horizontal" android:id="@id/textoverwrite" android:paddingTop="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/starting" />
+</LinearLayout>

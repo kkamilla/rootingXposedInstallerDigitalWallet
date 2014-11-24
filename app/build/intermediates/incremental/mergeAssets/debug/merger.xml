@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets" >
+            <file
+                name="arm/app_process_xposed_sdk15"
+                path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets/arm/app_process_xposed_sdk15" />
+            <file
+                name="arm/app_process_xposed_sdk16"
+                path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets/arm/app_process_xposed_sdk16" />
+            <file
+                name="arm/busybox-xposed"
+                path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets/arm/busybox-xposed" />
+            <file
+                name="x86/app_process_xposed_sdk15"
+                path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets/x86/app_process_xposed_sdk15" />
+            <file
+                name="x86/app_process_xposed_sdk16"
+                path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets/x86/app_process_xposed_sdk16" />
+            <file
+                name="x86/busybox-xposed"
+                path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets/x86/busybox-xposed" />
+            <file
+                name="Xposed-Disabler-Recovery.zip"
+                path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets/Xposed-Disabler-Recovery.zip" />
+            <file
+                name="Xposed-Installer-Recovery.zip"
+                path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets/Xposed-Installer-Recovery.zip" />
+            <file
+                name="XposedBridge.jar"
+                path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/main/assets/XposedBridge.jar" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/src/debug/assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="0x7f020000" />
+    <public type="layout" name="mainlayout" id="0x7f030000" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="string" name="starting" id="0x7f040001" />
+    <public type="id" name="text" id="0x7f050000" />
+    <public type="id" name="button" id="0x7f050001" />
+    <public type="id" name="textoverwrite" id="0x7f050002" />
+</resources>

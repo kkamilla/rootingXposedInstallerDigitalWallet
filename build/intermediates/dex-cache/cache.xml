@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/build/intermediates/pre-dexed/debug/cordova-2.4.0-07c374a7e56a137161ba5c00b276f86fc9e9d1fa.jar"
+        jar="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/libs/cordova-2.4.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="0cfa37b2e60e68a37c654fe7f1051d7140225a22"/>
+    <item
+        dex="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/build/intermediates/pre-dexed/debug/libsuperuser-185868-b5149f9335cf8a8931a90d9e96f41aedc317d8a4.jar"
+        jar="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/libs/libsuperuser-185868.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="ea52860cada99b025c7118fe552340302116c1eb"/>
+    <item
+        dex="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/build/intermediates/pre-dexed/debug/StickyListHeaders-d7f6fc-df01f7426058e434301b69c57d698ed8cc2d82f1.jar"
+        jar="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/libs/StickyListHeaders-d7f6fc.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="9a61ce5e9e47bd09d99f380ff4ff797bb8675097"/>
+    <item
+        dex="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/build/intermediates/pre-dexed/debug/android-support-v13-8c76a804dbceae4f5a691f441a09d184841c3836.jar"
+        jar="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/libs/android-support-v13.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="67a612e91a8c7f89536d5cf896fdfef7269a285d"/>
+    <item
+        dex="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/build/intermediates/pre-dexed/debug/AndroidHiddenAPI-cb15dcbee21e5a4b82c739101eb0e84bf8edc026.jar"
+        jar="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/libs/AndroidHiddenAPI.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="5dbc0c992033445fcce7c8e8e1fd35203d2515cc"/>
+    <item
+        dex="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/build/intermediates/pre-dexed/debug/commons-io-2.4-8608a1a23c23a56f93c4cf897b54d51770e70a7b.jar"
+        jar="/Users/krutikakamilla/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad"/>
+    <item
+        dex="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/build/intermediates/pre-dexed/debug/armeabi-9c37dbe7bf4ba2767bdd3e070d00599bdd812a8d.jar"
+        jar="/Users/krutikakamilla/Desktop/mobile_sec/XposedInstaller/app/libs/armeabi.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="94787cf531ebc0c0c11f5f08f1710e6027a4916d"/>
+
+</pre-dex-items>
